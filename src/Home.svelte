@@ -66,7 +66,7 @@
                             </h3>
                             <p class="text-white-50 mb-0">documentos de postman</p>
                             <br /><a
-                                href="https://documenter.getpostman.com/view/14948118/TzzGHZBZ"
+                                href="https://documenter.getpostman.com/view/14948118/UVJcjw4C"
                                 ><button type="button" class="btn btn-light"
                                     >Postman</button
                                 ></a
@@ -143,7 +143,7 @@
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="mt-5">
                             <i class="fas fa-4x fa-user text-white mb-4" />
-                            <h3 class="h4 mb-2 text-dark">Juan Diez Blanco</h3>
+                            <h3 class="h4 mb-2 text-dark">Juan Díez Blanco</h3>
                             <p class="text-muted mb-0">
                                 Creador de la API depression_stats
                             </p>
