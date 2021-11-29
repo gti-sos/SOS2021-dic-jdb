@@ -108,7 +108,7 @@ var counter=0;
   
   //primera grafica
   console.log(" primera grafica");
-  await page.click("#SvelteApp > main > main > div > div:nth-child(1) > div > div.card-body > a:nth-child(4) > button" );
+  await page.click("#SvelteApp > main > main > div > div:nth-child(2) > div > div.card-body > a:nth-child(3)" );
    
   await page.waitForTimeout(1000);
  
@@ -148,7 +148,7 @@ var counter=0;
 
 
    //tercera integracion
-   console.log(" tercera grafica");
+   console.log(" cuarta grafica");
    await page.click("#SvelteApp > main > main > div > div:nth-child(2) > div > div.card-body > a:nth-child(5) > button" );
     
    await page.waitForTimeout(1000);
